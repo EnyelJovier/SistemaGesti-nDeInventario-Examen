@@ -18,4 +18,4 @@ El sistema se divide en tres partes principales:
 2.  **ProductoElectronico:** Añade el atributo de Garantía y aplica un 18% de ITBIS.
 3.  **ProductoAlimento:** Añade la Fecha de Vencimiento y aplica un 8% de impuesto.
 
-
+**Nota:** La instancia de objetos la realice de forma manual mediante propiedades para mayor claridad:
