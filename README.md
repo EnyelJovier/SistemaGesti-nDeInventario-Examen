@@ -1,4 +1,4 @@
-# Sistema de Gestión de Inventario - Práctica POO 🛒
+# Sistema de Gestión de Inventario - Práctica POO 
 
 Este proyecto es una aplicación de consola desarrollada en **C#** para demostrar los conceptos fundamentales de la Programación Orientada a Objetos. El sistema permite gestionar productos electrónicos y alimentos, aplicando reglas de negocio específicas para cada tipo.
 
